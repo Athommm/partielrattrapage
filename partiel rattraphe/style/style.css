@@ -1,0 +1,30 @@
+.navbar{
+    background-color: rgb(32, 38, 68);
+}
+
+.h1{
+    display: flex;
+    color: rgb(32, 38, 68);
+    margin-bottom: 60px;
+}
+
+.summer{
+    margin-left: 200px;
+    margin-bottom: 120px;
+}
+
+.second{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+
+.deux{
+    background-color: rgb(32, 38, 68);
+    color: white;
+}
+
+.third{
+    display: flex;
+    justify-content: space-evenly;
+}
