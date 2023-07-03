@@ -6,10 +6,12 @@
     display: flex;
     color: rgb(32, 38, 68);
     margin-bottom: 60px;
+    margin-left: 450px;
+    margin-top: 40px;
 }
 
 .summer{
-    margin-left: 200px;
+    margin-left: 400px;
     margin-bottom: 120px;
 }
 
@@ -17,6 +19,8 @@
     display: flex;
     justify-content: space-evenly;
     margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .deux{
@@ -27,4 +31,6 @@
 .third{
     display: flex;
     justify-content: space-evenly;
+    margin-left: 200px;
+    margin-right: 200px;
 }
